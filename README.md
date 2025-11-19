@@ -100,13 +100,13 @@ Instale as dependências:
 
 Execute o script:
 
-- python nome_do_arquivo.py
+- python pi1_machine_learning.py
 
 6. Arquivos do Projeto
 
-pi1_machine_learning.py – Código completo do projeto
+- pi1_machine_learning.py – Código completo do projeto
 
-README.md – Documentação
+- README.md – Documentação
 
 7. Licença
 
